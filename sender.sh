@@ -1,3 +1,4 @@
+#!/bin/sh
 echo -n "smtp-server: "
 read SMTPSERVER
 echo -n "emailfile: "
