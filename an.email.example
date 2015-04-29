@@ -1,0 +1,16 @@
+MAIL FROM: <example.from@example.com>
+RCPT TO: <example.to@example.com>
+RCPT TO: <example.cc@example.com>
+DATA
+From: From Name <example.from@example.com>
+To: To Name <example.to@example.com>
+Cc: Cc Name <example.cc@example.com>
+Subject: This is a Testmail
+Date: 29 Apr 2015 19:10:30 +0100
+Content-Type: text/plain; charset=utf-8
+
+Hello,
+
+here you can type your message.
+The dot at the end finishes the message.
+.
